@@ -1,5 +1,5 @@
 안녕하세요 소프트웨어융합학과 20210833송한이입니다. 
 
-파일 저장 옵션은 main()함수에서
+파일 저장 옵션 사용을 위해 main()함수에서
 input_filename = 'C://Users//soldesk//Desktop//hani//students.txt'
 이 부분을 수정해주세요.
